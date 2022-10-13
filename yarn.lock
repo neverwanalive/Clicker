@@ -3082,6 +3082,19 @@ clean-css@^5.2.2:
   dependencies:
     source-map "~0.6.0"
 
+"clicker@git+https://github.com/neverwanalive/Clicker.git":
+  version "0.1.0"
+  resolved "git+https://github.com/neverwanalive/Clicker.git#61b4e22c079fecddfd835c15a8d7c54906d5f2d6"
+  dependencies:
+    "@testing-library/jest-dom" "^5.14.1"
+    "@testing-library/react" "^13.0.0"
+    "@testing-library/user-event" "^13.2.1"
+    react "^18.2.0"
+    react-dom "^18.2.0"
+    react-scripts "5.0.1"
+    styled-components "^5.3.6"
+    web-vitals "^2.1.0"
+
 cliui@^7.0.2:
   version "7.0.4"
   resolved "https://registry.yarnpkg.com/cliui/-/cliui-7.0.4.tgz#a0265ee655476fc807aea9df3df8df7783808b4f"
